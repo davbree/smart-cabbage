@@ -1,0 +1,6 @@
+title: Stackbit Vanilla Theme
+baseURL: /
+params:
+  none: ''
+disableKinds:
+  - RSS
